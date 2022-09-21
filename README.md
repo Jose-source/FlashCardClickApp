@@ -10,7 +10,7 @@
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://giphy.com/gifs/n2iuxYMl4gKWkvffLM" width=200><br>
+<img src="https://media4.giphy.com/media/n2iuxYMl4gKWkvffLM/giphy.gif?cid=790b76110b372db6357687e889402a186aeea000f468923e&rid=giphy.gif&ct=g" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
